@@ -1,4 +1,5 @@
-export const data_fake = ["Hoàn thành bài tập React",
+export const data_fake = [
+    "Hoàn thành bài tập React",
     "Làm báo cáo dự án",
     "Học TypeScript",
     "Đi mua sắm",
